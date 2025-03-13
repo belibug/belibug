@@ -3,7 +3,7 @@
 [![LinkedIn Profile][badge_linkedin]][link_linkedin]
 [![Check my blog][badge_blog]][link_blog]
 
-I am system engineer at Cognizant Technology Solutions  
+I am Digital Workspace Architect (EUC) at Cognizant Technology Solutions  
 
 - 💬 Connect with me for **PowerShell**, **SelfHosting** & **Console Gaming**
 
